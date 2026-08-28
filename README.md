@@ -22,9 +22,9 @@ Tecnologias atualmente em estudo:
 
 **Contexto:** a pasta de Downloads costuma acumular arquivos de tipos variados, dificultando a organização e localização de conteúdos.
 
-**Solução:** script em Python que identifica o tipo de cada arquivo e o move automaticamente para subpastas (vídeos, imagens, áudios, documentos e programas), utilizando as bibliotecas `os` e `shutil`.
+**Solução:** script em Python que identifica o tipo de cada arquivo e o move automaticamente para subpastas (vídeos, imagens, áudios, documentos e programas), utilizando python os e shutil.
 
-**Resultado:** eliminação da desorganização na pasta de Downloads, redução do tempo gasto em organização manual e aprendizado prático sobre manipulação de arquivos e tratamento de exceções em Python.
+**Resultado:** elimina a desorganização na pasta downloads, reduz do tempo gasto em organização manual e aprendizado prático sobre manipulação de arquivos
 
 ## Interesses de desenvolvimento
 
